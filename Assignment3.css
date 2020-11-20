@@ -1,0 +1,351 @@
+li {
+    list-style: none;
+}
+
+header {
+    background-color: #00CC66;
+    color: #fff;
+    height: 60px;
+    width: 1425px;
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  font-family: 'Big Shoulders Stencil Display', cursive;
+  padding: 0px 40px;
+  color: white;
+}
+
+.header-list li {
+  float: right;
+  font-size: 20px;
+  padding: 15px 20px;
+}
+
+.btn {
+  padding: 10px 26px 10px 26px;
+  color: white;
+  display: inline-block;
+  opacity: 1;
+  border-radius: 4px;
+}
+
+.btn :hover {
+  opacity: 1;
+}
+
+.getstarted {
+  font-size: 22px;
+  background-color: #239b76;
+  margin-top: 50px;
+}
+
+.container {
+  text-align: center;
+}
+
+.container h1 {
+    font-size: 50px;
+    color: white;
+}
+
+.container p{
+    color: white;
+}
+
+.top-wrapper {
+    padding-top: 200px;
+    padding-bottom: 270px;
+    background-image: url(VeganBackground.JPG);
+    width: 1410px
+    color: white;
+    background-size:cover;
+    text-align: center;
+}
+
+.Vegan-Tip {
+    background-color: antiquewhite;
+    width: 1424px;
+    height: 400px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.Vegan-Tip p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Vegan-Tip span{
+    color: red;
+}
+
+.Japan-Flag {
+    padding-left: 15px;
+    width: 1410px;
+    height: 1288px;
+    background-color: beige;
+    background-size:cover;
+}
+
+.Japan-Meal img{
+    padding-left: 250px;
+}
+
+.Japan-Flag h1{
+    font-size: 100px;
+    padding-right: 160px;
+    padding-top: 130px;
+    float: right;
+}
+
+.Japan-Meal h2{ 
+    font-family: cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+.Japan-Meal p{
+    text-align: center;
+}
+
+.China-Flag img{
+    padding-left: 600px;
+    margin-top: -370px;
+}
+
+.China-Flag {
+    padding-left: 15px;
+    width: 1410px;
+    height: 1361px;
+    background-color: darkgray;
+    background-size:cover;
+}
+
+.China-Meal img{
+    padding-left: 250px;
+    padding-top: 400px;
+}
+
+.China-Flag h1{
+    font-size: 100px;
+    padding-left: 160px;
+    padding-top: 130px;
+    float: left;
+}
+
+.China-Meal h2{ 
+    font-family: cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+.China-Meal p{
+    text-align: center;
+}
+
+.India-Flag {
+    padding-left: 15px;
+    width: 1410px;
+    height: 1308px;
+    background-color: darkseagreen;
+    background-size:cover;
+}
+
+.India-Flag img{
+    padding-top: 10px;
+}
+
+.India-Meal img{
+    padding-left: 250px;
+}
+
+.India-Flag h1{
+    font-size: 100px;
+    padding-right: 160px;
+    padding-top: 130px;
+    float: right;
+}
+
+.India-Meal h2{ 
+    font-family: cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+.India-Meal p{
+    text-align: center;
+}
+
+.Italy-Flag img{
+    padding-left: 600px;
+    margin-top: -370px;
+}
+
+.Italy-Flag {
+    padding-left: 15px;
+    width: 1410px;
+    height: 1327px;
+    background-color: aquamarine;
+    background-size:cover;
+}
+
+.Italy-Meal img{
+    padding-left: 250px;
+    padding-top: 400px;
+}
+
+.Italy-Flag h1{
+    font-size: 100px;
+    padding-left: 160px;
+    padding-top: 130px;
+    float: left;
+}
+
+.Italy-Meal h2{ 
+    font-family: cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+.Italy-Meal p{
+    text-align: center;
+}
+
+.Thai-Flag {
+    padding-left: 15px;
+    width: 1410px;
+    height: 1308px;
+    background-color: floralwhite;
+    background-size:cover;
+}
+
+.Thai-Flag img{
+    padding-top: 10px;
+}
+
+.Thai-Meal img{
+    padding-left: 250px;
+}
+
+.Thai-Flag h1{
+    font-size: 100px;
+    padding-right: 100px;
+    padding-top: 130px;
+    float: right;
+}
+
+.Thai-Meal h2{ 
+    font-family: cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+.Thai-Meal p{
+    text-align: center;
+}
+
+.USA-Flag img{
+    padding-left: 600px;
+    margin-top: -370px;
+}
+
+.USA-Flag {
+    padding-left: 15px;
+    width: 1410px;
+    height: 1327px;
+    background-color: darkorange;
+    background-size:cover;
+}
+
+.USA-Meal img{
+    padding-left: 250px;
+    padding-top: 400px;
+}
+
+.USA-Flag h1{
+    font-size: 100px;
+    padding-left: 160px;
+    padding-top: 130px;
+    float: left;
+}
+
+.USA-Meal h2{ 
+    font-family: cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+.USA-Meal p{
+    text-align: center;
+}
+
+.Mexico-Flag {
+    padding-left: 15px;
+    width: 1410px;
+    height: 1308px;
+    background-color: azure;
+    background-size:cover;
+}
+
+.Mexico-Flag img{
+    padding-top: 10px;
+}
+
+.Mexico-Meal img{
+    padding-left: 250px;
+}
+
+.Mexico-Flag h1{
+    font-size: 100px;
+    padding-right: 120px;
+    padding-top: 130px;
+    float: right;
+}
+
+.Mexico-Meal h2{ 
+    font-family: cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+.Mexico-Meal p{
+    text-align: center;
+}
+
+.message {
+    background-color: #5dca88;
+    padding: 15px 40px 15px 40px;
+    cursor: pointer;
+    box-shadow: 0px 7px #1a7940;
+}
+
+.message:active{
+    box-shadow: none;
+    position: relative;
+    top: 7px;
+}
+.heading h2{
+    text-align: center;
+}
+
+.heading h3{
+    text-align: center;
+    font-weight: normal;
+}
+
+footer {
+    background-color: black;
+    margin-top: 40px;
+    padding: 0px 20px 60px 20px;
+}
+
+.Last p{
+    color: white;
+    float: right;
+    padding-top: 20px;
+}
